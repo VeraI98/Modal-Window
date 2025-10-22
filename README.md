@@ -1,4 +1,4 @@
-# 🌐 CPS_Project
+# 🌐 Modal-Window
 
 This is my web project built with HTML, CSS
 
